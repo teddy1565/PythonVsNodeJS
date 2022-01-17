@@ -6,7 +6,7 @@ Count from 0 to 1000000000 with 10 thread or childProcess
 
 ## Python
 
-尚未測試
+child_Process_mode: command took 0:0:19.16 (17.55s total)
 
 ## Node.js
 
